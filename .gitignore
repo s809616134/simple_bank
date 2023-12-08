@@ -1,1 +1,5 @@
-app.env
+# ignore ALL .log files
+*.log
+
+# ignore ALL .env files
+*.env
